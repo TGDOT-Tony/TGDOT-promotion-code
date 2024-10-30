@@ -67,6 +67,9 @@ After you receive it through the project clone or the Pull command, you can get 
 If Python is not installed on your computer, you can easily download it through the following link.
 * https://www.python.org/
 * When installing Python, make sure to check the addition of environmental variables in the Windows environment.
+* How to get a promo code issued : 
+```python get-code.py```
+
 
 ## If you want VScode IDE
 download it through the following link.
