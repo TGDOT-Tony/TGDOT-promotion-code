@@ -61,3 +61,7 @@
 # TGDOT PROMOTION CODE
 Welcome to TGDOT.
 After you receive it through the project clone or the Pull command, you can get the promo code without any other process.
+
+## This program is written in Python.
+If Python is not installed on your computer, you can easily download it through the following link.
+* https://www.python.org/
