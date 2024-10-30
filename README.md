@@ -71,7 +71,7 @@ If Python is not installed on your computer, you can easily download it through 
 ```python get-code.py```
 
 
-## If you want VScode IDE
+## If you want VSCode IDE
 download it through the following link.
 * https://code.visualstudio.com/
 
